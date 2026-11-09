@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <rect width="1200" height="300" fill="#0E1F3D"/>
+  <g stroke="#2B7FD4" stroke-opacity="0.25" stroke-width="1.5" fill="none">
+    <path d="M820 60 L960 150 L1100 80"/><path d="M960 150 L1080 230"/><path d="M860 240 L960 150"/>
+  </g>
+  <g fill="#2B7FD4"><circle cx="820" cy="60" r="5"/><circle cx="960" cy="150" r="8"/><circle cx="1100" cy="80" r="5"/><circle cx="1080" cy="230" r="5"/><circle cx="860" cy="240" r="5"/></g>
+  <text x="80" y="160" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="700"><tspan fill="#F0F6FF">Nexovia</tspan><tspan fill="#2B7FD4">ai.</tspan></text>
+  <text x="82" y="210" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#F0F6FF" fill-opacity="0.8">One API. Multi-model access. Built for enterprise.</text>
+</svg>
